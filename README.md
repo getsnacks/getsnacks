@@ -1,5 +1,14 @@
 ## Hi there 👋
 
+I'm Seray, a passionate data scientist and bioinformatician with a background in evolutionary biology and population genetics. I specialize in data analysis and machine learning.
+I enjoy applying machine learning algorithms to solve real-world problems, whether through predictive modeling or in-depth exploratory analysis. My work is driven by a curiosity to understand the stories data can tell, and I’m constantly seeking new ways to make data more accessible and impactful.
+
+👩‍💻 Tools & Expertise:
+
+- Python 🐍 (NumPy, Pandas, Scikit-Learn, TensorFlow)
+- R 📊, SQL 🗃️, Jupyter Notebooks 📓, Bash 💻
+- Data Visualization & Exploratory Data Analysis 📈
+- Population Genomics & Phylogenetic Analysis 🧬🌿
 <!--
 **getsnacks/getsnacks** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
