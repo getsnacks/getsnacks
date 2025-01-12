@@ -15,10 +15,8 @@ I enjoy applying machine learning algorithms to solve real-world problems, wheth
 ![NumPy](https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy&logoColor=white)
 ![Pandas](https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white)
 
-👩‍💻 Tools & Expertise:
+👩‍💻 Expertise:
 
-- Python 🐍 (NumPy, Pandas, Scikit-Learn, TensorFlow)
-- R 📊, SQL 🗃️, Jupyter Notebooks 📓, Bash 💻
 - Data Visualization & Exploratory Data Analysis 📈
 - Population Genomics & Phylogenetic Analysis 🧬🌿
 <!--
