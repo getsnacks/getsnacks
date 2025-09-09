@@ -4,7 +4,7 @@ I'm Seray, a passionate data scientist and bioinformatician with a background in
 I enjoy applying machine learning algorithms to solve real-world problems, whether through predictive modeling or in-depth exploratory analysis. My work is driven by a curiosity to understand the stories data can tell, and I’m constantly seeking new ways to make data more accessible and impactful.
 
 ## Tech Stacks
-
+![Processing](https://img.shields.io/badge/-Processing Foundation-006699?style=flat&logo=processingfoundation&logoColor=white)
 ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
 ![R](https://img.shields.io/badge/R-276DC3?style=for-the-badge&logo=r&logoColor=white)
 ![SQL](https://img.shields.io/badge/SQL-4479A1?style=for-the-badge&logo=postgresql&logoColor=white)
