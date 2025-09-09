@@ -16,8 +16,8 @@ I enjoy applying machine learning algorithms to solve real-world problems, wheth
 
 👩‍💻 Expertise:
 
-- Data Visualization & Exploratory Data Analysis 📈
-- Population Genomics & Phylogenetic Analysis 🧬🌿
+- Data Visualization & Exploratory Data Analysis
+- Population Genomics & Phylogenetic Analysis 
 <!--
 **getsnacks/getsnacks** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
